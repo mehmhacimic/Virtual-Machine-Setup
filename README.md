@@ -1,9 +1,9 @@
-# VirtualMachineSetup
-Introduction:
-Hello and welcome to this tutorial on setting up Virtual Machines in Azure! In this part, we will focus on creating the necessary resources, including a Resource Group, a Windows 10 Virtual Machine, and a Linux (Ubuntu) Virtual Machine.
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+
+
+<h1>Virtual Machine Setup in Microsoft Azure(Azure)</h1>
+Hello and welcome to this tutorial on setting up Virtual Machines in Azure! In this part, we will focus on creating the necessary resources, including a Resource Group, a Windows 10 Virtual Machine, and a Linux (Ubuntu) Virtual Machine in Microsoft Azure.
+.<br />
 
 
 <h2>Video Demonstration</h2>
