@@ -37,12 +37,15 @@
 
 2. In the top search bar, search for "Resource groups."
 
+![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/a6db528a-6776-465d-bd76-b16bd20a00d3)
 
 3. Click the "+ Create" to create a new Resource Group.
 
+![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/f017174d-1231-497b-bc9e-6583feb6c7fb)
 
 4. Provide a unique name for your Resource Group, select your preferred region, and click "Review + create."
 
+![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/17299673-8147-4b15-b852-0817d81fa945)
 
 5. Review your settings and click "Create" to create the Resource Group.
 
