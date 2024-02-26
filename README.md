@@ -55,7 +55,7 @@
 7. Click the "+ Create" button and then "Azure Virtual Machine" to create a new Virtual Machine.
 
 
-8. Fill in the necessary information for the VM (previously created Resource Group, VM Name, Windows 10 Pro, VM Size, Username, Password) 
+8. Fill in the necessary information for the Windows VM (previously created Resource Group, VM Name, Windows 10 Pro Image, VM Size, Username, Password) 
 
 *Make sure you also select the same region as your Resource Group. and select the 'No infrastructure redundancy required' availability option.*
 
@@ -74,16 +74,30 @@
 **Step 3: Create a Linux (Ubuntu) VM**
 
 
-12. In the Azure portal, navigate to "Virtual machines."
+12. In the Azure portal, navigate again to "Virtual machines."
 
 
-13. Click the "+ Add" button to create a new Virtual Machine.
+13. Click the "+ Create" button to create a new Virtual Machine.
 
 
-14. Fill in the necessary information for the Linux VM, ensuring you select the previously created Resource Group and Vnet.
+14. Fill in the necessary information for the Linux VM(previously created Resource Group, VM Name, Ubuntu Linux Image, VM Size, Authentication type), ensuring you select the same Vnet that was created during the Windows 10 VM Deployment.
+
+*Again, select the 'No infrastructure redundancy required' availability option.*
+
+![linuxvm1](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/66b316ae-efc3-40aa-b53f-30fa747650f2)
+![linuxvm3](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/33fbec5d-b6bf-4c0e-84ec-3e66912d0b9c)
 
 
 15. Continue through the wizard, configuring additional settings as needed, and click "Review + create."
 
+![linuxvm4](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/c14ac9ce-eb55-4ade-9f1a-20298d982795)
 
 16. Review your settings and click "Create" to deploy the Linux (Ubuntu) VM.
+
+**OPTIONAL STEP**
+
+Navigate back to your Resource group containing both VMs to ensure everything was setup properly.
+
+     *You should only have 1 virtual network and 2 of everything else*
+   ![Rg1page](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/27f4e8f6-623f-4d66-8dd8-0784bbbbb3c2)
+ 
