@@ -60,7 +60,7 @@
 
 ![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/1778e383-6085-4104-96f1-7506d4496ae7)
 
-8. Fill in the necessary information for the Windows VM (previously created Resource Group, VM Name, Windows 10 Pro Image, VM Size, Username, Password) 
+8. Fill in the necessary information for the Windows VM (*previously created Resource Group, VM Name, Windows 10 Pro Image, VM Size, Username, Password*) 
 
 *Make sure you also select the same region as your Resource Group. and select the 'No infrastructure redundancy required' availability option.*
 
@@ -87,7 +87,7 @@
 13. Click the "+ Create" button to create a new Virtual Machine.
 
 
-14. Fill in the necessary information for the Linux VM(previously created Resource Group, VM Name, Ubuntu Linux Image, VM Size, Authentication type), ensuring you select the same Vnet that was created during the Windows 10 VM Deployment.
+14. Fill in the necessary information for the Linux VM(*previously created Resource Group, VM Name, Ubuntu Linux Image, VM Size, Authentication type*), ensuring you select the same Vnet that was created during the Windows 10 VM Deployment.
 
 *Again, select the 'No infrastructure redundancy required' availability option.*
 
