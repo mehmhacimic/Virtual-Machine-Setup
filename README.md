@@ -29,7 +29,8 @@
 <h2>Deployment and Configuration Steps</h2>
 
 
-Step 1: Create a Resource Group
+**Step 1: Create a Resource Group**
+
 Open the Azure portal (https://portal.azure.com/) and log in to your Azure account.
 
 In the left navigation pane, click on "Resource groups."
@@ -41,7 +42,7 @@ Provide a unique name for your Resource Group, select your preferred region, and
 Review your settings and click "Create" to create the Resource Group.
 
 
-Step 2: Create a Windows 10 Virtual Machine (VM)
+**Step 2: Create a Windows 10 Virtual Machine (VM)**
 
 In the Azure portal, navigate to "Virtual machines."
 
@@ -56,7 +57,8 @@ Continue through the wizard, configuring additional settings as needed, and clic
 Review your settings and click "Create" to deploy the Windows 10 VM.
 
 
-Step 3: Create a Linux (Ubuntu) VM
+**Step 3: Create a Linux (Ubuntu) VM**
+
 In the Azure portal, navigate to "Virtual machines."
 
 Click the "+ Add" button to create a new Virtual Machine.
