@@ -26,7 +26,7 @@
 ![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2)
 
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Deployment Steps</h2>
 
 
 **Step 1: Create a Resource Group**
