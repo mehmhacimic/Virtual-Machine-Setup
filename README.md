@@ -31,40 +31,59 @@
 
 **Step 1: Create a Resource Group**
 
-Open the Azure portal (https://portal.azure.com/) and log in to your Azure account.
 
-In the left navigation pane, click on "Resource groups."
+1. Open the Azure portal (https://portal.azure.com/) and log in to your Azure account.
 
-Click the "+ Add" button to create a new Resource Group.
 
-Provide a unique name for your Resource Group, select your preferred region, and click "Review + create."
+2. In the top search bar, search for "Resource groups."
 
-Review your settings and click "Create" to create the Resource Group.
+
+3. Click the "+ Create" to create a new Resource Group.
+
+
+4. Provide a unique name for your Resource Group, select your preferred region, and click "Review + create."
+
+
+5. Review your settings and click "Create" to create the Resource Group.
 
 
 **Step 2: Create a Windows 10 Virtual Machine (VM)**
 
-In the Azure portal, navigate to "Virtual machines."
+6. In the Azure portal, navigate to "Virtual machines."
 
-Click the "+ Add" button to create a new Virtual Machine.
 
-Fill in the necessary information for the VM, ensuring you select the previously created Resource Group.
+7. Click the "+ Create" button and then "Azure Virtual Machine" to create a new Virtual Machine.
 
-In the Networking tab, allow the VM to create a new Virtual Network (Vnet) and Subnet.
 
-Continue through the wizard, configuring additional settings as needed, and click "Review + create."
+8. Fill in the necessary information for the VM (previously created Resource Group, VM Name, Windows 10 Pro, VM Size, Username, Password) 
 
-Review your settings and click "Create" to deploy the Windows 10 VM.
+*Make sure you also select the same region as your Resource Group. and select the 'No infrastructure redundancy required' availability option.*
+
+![WindowsVm1](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/a4db54ad-aca1-4a57-a103-5592b8c5998c)
+
+
+9. In the Networking tab, allow the VM to create a new Virtual Network (Vnet) and Subnet.
+
+
+10. Continue through the wizard, configuring additional settings as needed, and click "Review + create."
+
+
+11. Review your settings and click "Create" to deploy the Windows 10 VM.
 
 
 **Step 3: Create a Linux (Ubuntu) VM**
 
-In the Azure portal, navigate to "Virtual machines."
 
-Click the "+ Add" button to create a new Virtual Machine.
+12. In the Azure portal, navigate to "Virtual machines."
 
-Fill in the necessary information for the Linux VM, ensuring you select the previously created Resource Group and Vnet.
 
-Continue through the wizard, configuring additional settings as needed, and click "Review + create."
+13. Click the "+ Add" button to create a new Virtual Machine.
 
-Review your settings and click "Create" to deploy the Linux (Ubuntu) VM.
+
+14. Fill in the necessary information for the Linux VM, ensuring you select the previously created Resource Group and Vnet.
+
+
+15. Continue through the wizard, configuring additional settings as needed, and click "Review + create."
+
+
+16. Review your settings and click "Create" to deploy the Linux (Ubuntu) VM.
