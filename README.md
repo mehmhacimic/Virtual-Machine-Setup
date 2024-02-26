@@ -58,6 +58,7 @@
 
 7. Click the "+ Create" button and then "Azure Virtual Machine" to create a new Virtual Machine.
 
+![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/1778e383-6085-4104-96f1-7506d4496ae7)
 
 8. Fill in the necessary information for the Windows VM (previously created Resource Group, VM Name, Windows 10 Pro Image, VM Size, Username, Password) 
 
