@@ -97,8 +97,6 @@
 
 15. Continue through the wizard, configuring additional settings as needed, and click "Review + create."
 
-![linuxvm4](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/c14ac9ce-eb55-4ade-9f1a-20298d982795)
-
 16. Review your settings and click "Create" to deploy the Linux (Ubuntu) VM.
 
 **OPTIONAL STEP**
