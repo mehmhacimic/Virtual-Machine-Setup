@@ -2,7 +2,7 @@
 
 
 <h1>Setting up Windows and Linux Virtual Machines (Microsoft Azure)</h1>
-Hello and welcome to this tutorial on setting up Virtual Machines in Azure! In this part, we will focus on creating the necessary resources, including a Resource Group, a Windows 10 Virtual Machine, and a Linux (Ubuntu) Virtual Machine in Microsoft Azure.
+Hello and welcome to this tutorial on setting up Virtual Machines in Azure! We will focus on creating the necessary resources, including a Resource Group, a Windows 10 Virtual Machine, and a Linux (Ubuntu) Virtual Machine in Microsoft Azure.
 .<br />
 
 
@@ -12,22 +12,15 @@ Hello and welcome to this tutorial on setting up Virtual Machines in Azure! In t
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
-
+- Microsoft Azure (Virtual Machines)
+- 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- Windows 10 (22H2)
+- Ubuntu Linux (20.04 LTS)
+![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d03878b-62f3-46fb-8e1d-a865de8e0cdf)
+![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
 
 <h2>Deployment and Configuration Steps</h2>
 
