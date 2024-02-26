@@ -64,7 +64,7 @@
 
 *Make sure you also select the same region as your Resource Group. and select the 'No infrastructure redundancy required' availability option.*
 
-![WindowsVm1](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/a4db54ad-aca1-4a57-a103-5592b8c5998c)
+![WindowsVm1](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/a4db54ad-aca1-4a57-a103-5592b8c5998c) 
 
 
 9. In the Networking tab, allow the VM to create a new Virtual Network (Vnet) and Subnet.
