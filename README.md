@@ -69,7 +69,8 @@
 
 9. In the Networking tab, allow the VM to create a new Virtual Network (Vnet) and Subnet.
 
-![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/f8449b8c-b94b-48ad-8e4f-1eae7fcfdba0) 
+![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/ee32f0a3-0a1f-4d6d-a2b6-bc1811500dce)
+
 
 10. Continue through the wizard, configuring additional settings as needed, and click "Review + create."
 
