@@ -77,7 +77,7 @@
 
 11. Review your settings and click "Create" to deploy the Windows 10 VM.
 
-AFTER THE VM FINISHES DEPLOYMENT, GO AHEAD AND **REFRESH** YOUR PAGE
+*AFTER THE VM FINISHES DEPLOYMENT, GO AHEAD AND **REFRESH** YOUR PAGE*
 
 
 **Step 3: Create a Linux (Ubuntu) VM**
