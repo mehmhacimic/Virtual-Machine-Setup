@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="800" height="500" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/756b1722-1f2a-4ef9-87bc-9e848f66d2a4">
+</p>
 
 <p align="center">
   <img width="800" height="400" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/1e02515e-9583-46c5-87d7-f089262baed5">
@@ -5,10 +8,6 @@
 
 <p align="center">
   <img width="800" height="300" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2">
-</p>
-
-<p align="center">
-  <img width="800" height="500" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/756b1722-1f2a-4ef9-87bc-9e848f66d2a4">
 </p>
 
 <h1>Setting up Windows and Linux Virtual Machines (Microsoft Azure)</h1>
@@ -24,15 +23,11 @@
 
 - Microsoft Azure (Virtual Machines)
 
-   ![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/756b1722-1f2a-4ef9-87bc-9e848f66d2a4)
-  <p align="center">
-
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (22H2)
 - Ubuntu Linux (20.04 LTS)
 
- 
 <h2>Deployment Steps</h2>
 
 
