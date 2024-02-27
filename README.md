@@ -7,7 +7,7 @@
 </p>   
 
 <p align="center">
-  <img width="200" height="75" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2">
+  <img align="right" width="200" height="75" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2">
 </p>
 
 <h1>Setting up Windows and Linux Virtual Machines (Microsoft Azure)</h1>
