@@ -23,8 +23,9 @@
 - Ubuntu Linux (20.04 LTS)
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/617df6a6-46e7-4a5b-aa08-60b2a5892044">
+  <img width="800" height="400" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/1e02515e-9583-46c5-87d7-f089262baed5">
 </p>   
+
 
 
 <p align="center">
