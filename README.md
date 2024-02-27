@@ -1,4 +1,3 @@
-
 p align="center">
   <img width="200" height="125" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/756b1722-1f2a-4ef9-87bc-9e848f66d2a4">
 </p>
