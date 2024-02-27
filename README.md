@@ -23,10 +23,12 @@
 - Ubuntu Linux (20.04 LTS)
 
 <p align="center">
+ 
   ![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d03878b-62f3-46fb-8e1d-a865de8e0cdf)
 
 
 <p align="center">
+  
   ![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2)
 
 
