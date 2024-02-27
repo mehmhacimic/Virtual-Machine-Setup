@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img width="800" height="200" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2">
+  <img width="800" height="300" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2">
 </p>
 
  
