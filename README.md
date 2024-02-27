@@ -6,6 +6,11 @@
 <p align="center">
   <img width="800" height="300" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2">
 </p>
+
+<p align="center">
+  <img width="800" height="300" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/756b1722-1f2a-4ef9-87bc-9e848f66d2a4">
+</p>
+
 <h1>Setting up Windows and Linux Virtual Machines (Microsoft Azure)</h1>
   This is a tutorial on setting up Virtual Machines in Azure! We will focus on creating the necessary resources, including a Resource Group, a Windows 10 Virtual Machine, and a Linux (Ubuntu) Virtual Machine in Microsoft Azure.
 <br />
@@ -26,16 +31,6 @@
 
 - Windows 10 (22H2)
 - Ubuntu Linux (20.04 LTS)
-
-<p align="center">
-  <img width="800" height="400" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/1e02515e-9583-46c5-87d7-f089262baed5">
-</p>   
-
-
-
-<p align="center">
-  <img width="800" height="300" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2">
-</p>
 
  
 <h2>Deployment Steps</h2>
