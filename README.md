@@ -22,11 +22,11 @@
 - Windows 10 (22H2)
 - Ubuntu Linux (20.04 LTS)
 
-  ![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d03878b-62f3-46fb-8e1d-a865de8e0cdf)
+![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d03878b-62f3-46fb-8e1d-a865de8e0cdf)
 <p align="center">
 
   
-  ![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2)
+![image](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2)
 <p align="center">
 
 
