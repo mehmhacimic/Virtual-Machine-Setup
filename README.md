@@ -1,6 +1,8 @@
 <p align="center">
   <img width="200" height="125" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/756b1722-1f2a-4ef9-87bc-9e848f66d2a4">
-</p> <img align="left" width="200" height="100" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/1e02515e-9583-46c5-87d7-f089262baed5">
+</p> 
+
+<img align="left" width="200" height="100" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/1e02515e-9583-46c5-87d7-f089262baed5">
   
 <img align="right" width="200" height="75" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2"></p>
 
