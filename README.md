@@ -7,6 +7,7 @@
   
 
   <img align="right" width="200" height="75" src="https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/7d3307be-d928-4b88-ad60-d56e43fa55a2"></p>
+
 <br />
 
 <h1>Setting up Windows and Linux Virtual Machines (Microsoft Azure)</h1>
