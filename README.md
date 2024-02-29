@@ -103,8 +103,14 @@
 
 **OPTIONAL STEP**
 
-Navigate back to your Resource group containing both VMs to ensure everything was setup properly.
+Navigate back to your Resource group containing both VMs to ensure everything was set up properly.
 
      *You should only have 1 virtual network and 2 of everything else*
    ![Rg1page](https://github.com/mehmhacimic/VirtualMachineSetup/assets/157438082/27f4e8f6-623f-4d66-8dd8-0784bbbbb3c2)
- 
+
+ 17. To get into either VM:
+      - Navigate to:
+          - Virtual machines > Whichever virtual machine you want to log into from the drop-down menu > Overview
+      - Copy the public IP address of the VM
+      - Open up Remote Desktop Connection on Windows, Download + Install Microsoft Remote Desktop Connection for MacOS
+      - Paste the public IP address of the VM into the "Computer" empty box 
