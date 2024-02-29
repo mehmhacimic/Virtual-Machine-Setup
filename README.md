@@ -113,4 +113,8 @@ Navigate back to your Resource group containing both VMs to ensure everything wa
           - Virtual machines > Whichever virtual machine you want to log into from the drop-down menu > Overview
       - Copy the public IP address of the VM
       - Open up Remote Desktop Connection on Windows, Download + Install Microsoft Remote Desktop Connection for MacOS
-      - Paste the public IP address of the VM into the "Computer" empty box 
+      - Paste the public IP address of the VM into the "Computer" empty box
+        ![VMRDP1](https://github.com/mehmhacimic/Virtual-Machine-Setup/assets/157438082/7d4f1784-5854-402c-9128-bd4427cb2a7d)
+![image](https://github.com/mehmhacimic/Virtual-Machine-Setup/assets/157438082/1d6c58fd-eb91-4f40-8241-b892d29be11e)
+
+        
